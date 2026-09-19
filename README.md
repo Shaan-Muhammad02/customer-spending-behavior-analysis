@@ -170,3 +170,19 @@ customer-spending-behavior-analysis/
 ├── README.md
 └── requirements.txt
 ```
+## Tools and Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- Jupyter Notebook
+- Exploratory Data Analysis
+- Machine Learning
+- Regression
+- Classification
+- K-Means Clustering
+- Customer Segmentation
